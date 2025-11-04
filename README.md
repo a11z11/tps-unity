@@ -1,4 +1,4 @@
-<!-- https://github.com/leedonglee/TPSSample -->
+<!-- https://github.com/a11z11/tps-unity -->
 
 ## About
 
