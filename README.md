@@ -1,4 +1,4 @@
-<!-- https://github.com/e808b/tps-unity -->
+<!-- https://github.com/e808b/unity-tps-sample -->
 
 ## About
 
